@@ -1,14 +1,24 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+# What was removed from the source: 
 
-Alt-H1
-======
+. Cryptopp 
+. Panama 
+. Cipher
+. Auth Brazil 
+. IMPROVED PACKET ENCRYPTION 
+. Nprotect
+. Xtrap
+. Hackshield
+. Auction
+. BlockCountry (BlockException)
+. Monarch
+. SMS pool / Mobile
+. PcBang
+. SpeedServer
+. TeenServer
+. Lizenzserver
+. TimeBomb
+. MatrixCard.
+. PassPod
 
-Alt-H2
-------
+
