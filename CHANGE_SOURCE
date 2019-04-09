@@ -1,23 +1,67 @@
-What was removed from the source: 
 
-. Cryptopp 
-. Panama 
-. Cipher
-. Auth Brazil 
-. IMPROVED PACKET ENCRYPTION 
-. Nprotect
-. Xtrap
-. Hackshield
-. Auction
-. BlockCountry (BlockException)
-. Monarch
-. SMS pool / Mobile
-. PcBang
-. SpeedServer
-. TeenServer
-. Lizenzserver
-. TimeBomb
-. MatrixCard.
-. PassPod
+# Changelog KoriDev Files Rework
 
+## General Informations
+```
++ Every npc, mount, pet and mobs have a motlist.txt
++ All gr2 models updated to 2.11 and compressed ( smaler ) thanks to CORE
++ Maps, Mobs, Npcs and more Update to Version 19.1 thanks to Gantur
++ Add gloss changed thanks to Xayah
+
+```
+## New Source Updates Client
+### Extern :
+```
++ Update Crypto++ 5.6 to Crypto++ 7.0
++ Update Boost to 1.68.0
++ Update Granny to 2.11.8
++ Removed unused Files ( 40% complete )
++ DirectX 9 Update
+```
+### New Systems / Defines
+```
++ Add Mounts with Python ( Mounts.py ) fixed
++ Add mark not tradeable items / Fixed
++ Add Offical Tab Traging System
++ Add #define PYTHON_SCROLL_NEW system ( OnRunMouseWheelEvent ) #update python part removed wait for fix
++ Add #define ENABLE_SHINING_SYSTEM system ( Fixed by Madara ) 
++ Add #define FIX_CAMERA_FREEZE system ( Thanks to Bademantel )
++ Add #define WORLD_EDITOR to enable CMapOutdoor::Load - LoadMonsterAreaInfo info 
++ Add #define ENABLE_TEXTURESET_FIX
++ Add #define ENABLE_AGGREGATE_MONSTER_EFFECT ( Cape effect )
++ Add #TRAGET_RENDER ( Shop Deco code is only for Test and for later updates )
+```
+
+### New Fixes
+```
++ Removed all AUCTION
++ CREATE_NO_APPROPRIATE_DEVICE fix
++ Fix the client shutdown without sys when texturesette is a space
++ Invisibility and Skill Affect Eunhyeong Fix
++ Fix for sell items to npc 
++ Tooltip Fix in Inventory
++ Fix Delete Item on Inventory
++ Fix ENTER button in characterselect
++ Fix Emotions with color pen ( Shift+1 to shift+6 ) 
++ removed Emotions logs 
++ Inventar Item Drop Bug fix
++ Costume (Inventar) fix
++ CMapOutdoor::Load - LoadMonsterAreaInfo ERROR disabled
++ skill on the ground fix
++ removed __20040725_CAMERA_WORK__
++ removed CHECK_LATEST_DATA_FILES
++ removed ATTACK_TIME_LOG
++ fixed dropdialog close with esc
++ fixed traget ring on stones
++ Memory leak fix
++ Shaman buff target visual bug fix
++ Introselect fix ( Python ) 
++ Fixed Dragon buff icons 
+
+```
+
+### New Systems Client Python
+```
++ Add Material Info on refine ( ENABLE_REFINE_ITEM_DESCRIPTION = 1/0 )
+```
 
