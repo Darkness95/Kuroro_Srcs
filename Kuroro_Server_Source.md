@@ -12,6 +12,7 @@
 ```
 ## - New Fixes
 ```
++ Dungeon (core downer)
 ```
 ## - New Questfunctions 
 ```
