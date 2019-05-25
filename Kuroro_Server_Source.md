@@ -3,6 +3,7 @@
 
 - [Changelog Kuroro Server Source](#changelog-kurorowork-server-source)
   * [- New Defines / Systems](#--new-defines---systems)
+  * [- Modification and additions](#--Modification---Additions)
   * [- New Fixes](#--new-fixes)
   * [- New Questfunctions](#--new-questfunctions)
   * [- Removed Code](#--removed-code)
@@ -30,6 +31,31 @@
 #define ENABLE_MYSQL_QUERY						       
 #define ENABLE_QUEST_DIE_EVENT					    
 #define ENABLE_TRANSLATE_LUA				       
+```
+## - Modificationefines / Additions
+```
++ Player conversation stored in the chatlog table
++ Spam chat limit disconnected
++ Spam chat whisper limit disconnected
++ The required experience is no longer required to read a manual
++ When you receive a lower buff than the one you currently own, it does not work.
++ If the position is not allowed, you return to your village
++ If the position is unknown, you return to your village
++ GM logo display in test server mode
++ Logo display for low wizard grade
++ Cmd Flood disconnected
++ Open a shop with your equipment
++ Penetrate effect enabled.
++ Pot Effect. Purple - Green
++ Extended purge commands.
++ State command targeting the player
++ Deleting the status limit
++ The skills pass in master to 17 points
++ Automatically configure the internal ip.
++ Mysql Query Command.
++ Die quest event.
++ Enable translate.lua loading
++	Full_set updated with news items.       
 ```
 ## - New Fixes
 ```
