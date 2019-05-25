@@ -3,7 +3,7 @@
 
 - [Changelog Kuroro Server Source](#changelog-kurorowork-server-source)
   * [- New Defines / Systems](#--new-defines---systems)
-  * [- Modification and additions](#--Modification---Additions)
+  * [- Modification / Additions](#--modification---additions)
   * [- New Fixes](#--new-fixes)
   * [- New Questfunctions](#--new-questfunctions)
   * [- Removed Code](#--removed-code)
@@ -32,7 +32,7 @@
 #define ENABLE_QUEST_DIE_EVENT					    
 #define ENABLE_TRANSLATE_LUA				       
 ```
-## - Modificationefines / Additions
+## - Modification / Additions
 ```
 + Player conversation stored in the chatlog table
 + Spam chat limit disconnected
@@ -55,7 +55,7 @@
 + Mysql Query Command.
 + Die quest event.
 + Enable translate.lua loading
-+	Full_set updated with news items.       
++ Full_set updated with news items.       
 ```
 ## - New Fixes
 ```
