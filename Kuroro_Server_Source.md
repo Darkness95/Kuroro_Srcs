@@ -35,7 +35,7 @@
 + Full-speeded player is on a mount
 + Negative hp on dead
 + Call mount is fixed
-+ Kill a player (guerrier), `when kill begin` will be triggered twice
++ Kill a player (war m), `when kill begin` will be triggered twice
 + IsExchanging and IsEquipped is now gathering
 + ComputePoints function fixed
 + Put item from safebox / mall to belt inventory fixed
