@@ -9,27 +9,27 @@
 
 ## - New Defines / Systems
 ```
-#define ENABLE_CHAT_LOGGING						       // Player conversation stored in the chatlog table
-#define ENABLE_CHAT_SPAMLIMIT					      // Spam chat limit disconnected
-#define ENABLE_WHISPER_CHAT_SPAMLIMIT			// Spam chat whisper limit disconnected
-#define ENABLE_SKILL_NEED_EXP_DISABLE			// The required experience is no longer required to read a manual
-#define ENABLE_IGNORE_LOWER_BUFFS				   // When you receive a lower buff than the one you currently own, it does not work.
-#define ENABLE_GOHOME_IFMAP_NOT_ALLOWED // If the position is not allowed, you return to your village
-#define ENABLE_GOHOME_IF_MAP_NOT_EXIST		// If the position is unknown, you return to your village
-#define ENABLE_GM_FLAG_IF_TEST_SERVER			// GM logo display in test server mode
-#define ENABLE_GM_FLAG_FOR_LOW_WIZARD			// Logo display for low wizard grade
-#define ENABLE_ANTI_CMD_FLOOD					      // Cmd Flood disconnected
-#define ENABLE_OPEN_SHOP_WITH_ARMOR				 // If enabled, you can open a shop with your equipment
-#define ENABLE_EFFECT_PENETRATE				     // Penetrate effect enabled.
-#define ENABLE_EFFECT_EXTRAPOT					     // Pot Effect. Purple - Green
-#define ENABLE_CMD_IPURGE_EX					       // Extended purge commands.
-#define ENABLE_SET_STATE_WITH_TARGET			 // State command targeting the player
-#define ENABLE_STATPLUS_NOLIMIT					    // Deleting the status limit
-#define ENABLE_FORCE2MASTERSKILL				    // Skills pass in master to 17 points
-#define ENABLE_AUTODETECT_INTERNAL_IP			// Automatically configure the internal ip.
-#define ENABLE_MYSQL_QUERY						        // Mysql Query Command.
-#define ENABLE_QUEST_DIE_EVENT					     // Die quest event.
-#define ENABLE_TRANSLATE_LUA				       	// Enable translate.lua loading
+#define ENABLE_CHAT_LOGGING						 
+#define ENABLE_CHAT_SPAMLIMIT					     
+#define ENABLE_WHISPER_CHAT_SPAMLIMIT		
+#define ENABLE_SKILL_NEED_EXP_DISABLE		
+#define ENABLE_IGNORE_LOWER_BUFFS				  
+#define ENABLE_GOHOME_IFMAP_NOT_ALLOWED
+#define ENABLE_GOHOME_IF_MAP_NOT_EXIST	
+#define ENABLE_GM_FLAG_IF_TEST_SERVER		
+#define ENABLE_GM_FLAG_FOR_LOW_WIZARD		
+#define ENABLE_ANTI_CMD_FLOOD					     
+#define ENABLE_OPEN_SHOP_WITH_ARMOR	
+#define ENABLE_EFFECT_PENETRATE				    
+#define ENABLE_EFFECT_EXTRAPOT					    
+#define ENABLE_CMD_IPURGE_EX					      
+#define ENABLE_SET_STATE_WITH_TARGET	
+#define ENABLE_STATPLUS_NOLIMIT					   
+#define ENABLE_FORCE2MASTERSKILL	
+#define ENABLE_AUTODETECT_INTERNAL_IP
+#define ENABLE_MYSQL_QUERY						       
+#define ENABLE_QUEST_DIE_EVENT					    
+#define ENABLE_TRANSLATE_LUA				       
 ```
 ## - New Fixes
 ```
