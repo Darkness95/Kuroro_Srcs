@@ -29,8 +29,11 @@
 #define ENABLE_FORCE2MASTERSKILL	
 #define ENABLE_AUTODETECT_INTERNAL_IP
 #define ENABLE_MYSQL_QUERY						       
-#define ENABLE_QUEST_DIE_EVENT					    
-#define ENABLE_TRANSLATE_LUA				       
+#define ENABLE_TRANSLATE_LUA				
+#define ENABLE_QUEST_DIE_EVENT					
+#define ENABLE_QUEST_REVIVE_EVENT		
+#define ENABLE_QUEST_UPGRADE_EVENT	
+#define ENABLE_QUEST_FISHING_EVENT	
 ```
 ## - Modification / Additions
 ```
@@ -53,9 +56,12 @@
 + The skills pass in master to 17 points
 + Automatically configure the internal ip.
 + Mysql Query Command.
-+ Die quest event.
 + Enable translate.lua loading
-+ Full_set updated with news items.       
++ Full_set updated with news items.
++ Die quest event.
++ Revive quest event.
++ Upgrade event quest.
++ Fishing complet event quest.
 ```
 ## - New Fixes
 ```
