@@ -13,7 +13,8 @@
 ## - New Fixes
 ```
 + Dungeon (core downer)
-+ P2P Fix
++ P2P fix
++ Admin tool exploit fix 
 + Enable stackable books instead of remove all the pile
 + Guild exploit fix
 + Guild comment flood mysql ( delay 10 min )
