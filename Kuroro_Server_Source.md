@@ -4,6 +4,7 @@
 - [Changelog Kuroro Server Source](#changelog-kurorowork-server-source)
   * [- New Defines / Systems](#--new-defines---systems)
   * [- Modification / Additions](#--modification---additions)
+  * [- List of new game/ CONFIG options](#--New-game---config-options)
   * [- New Fixes](#--new-fixes)
   * [- New Questfunctions](#--new-questfunctions)
   * [- Removed Code](#--removed-code)
