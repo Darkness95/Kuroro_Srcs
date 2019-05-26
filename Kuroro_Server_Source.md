@@ -17,6 +17,7 @@
 #define ENABLE_SKILL_NEED_EXP_DISABLE		
 #define ENABLE_IGNORE_LOWER_BUFFS
 #define ENABLE_BLOCK_SKILL_OXEVENT
+#define ENABLE_PRIVATE_SHOP_AUTO_CLOSE
 #define ENABLE_GOHOME_IFMAP_NOT_ALLOWED
 #define ENABLE_GOHOME_IF_MAP_NOT_EXIST	
 #define ENABLE_GM_FLAG_IF_TEST_SERVER		
@@ -79,6 +80,8 @@
 + Spam chat whisper limit disconnected
 + The required experience is no longer required to read a manual
 + When you receive a lower buff than the one you currently own, it does not work.
++ Skills are blocked during an OX event ( command enable_block_skill_oxevent 1 for enable 0 for disable )
++ Close the private shop after it's sold out
 + If the position is not allowed, you return to your village
 + If the position is unknown, you return to your village
 + GM logo display in test server mode
