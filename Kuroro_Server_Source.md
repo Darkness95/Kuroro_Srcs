@@ -152,6 +152,7 @@
 + If map/index doesn't end with a newline, the game will crash
 + Guild_add_member can add any vid as guild's member even if it's a mob or an npc
 + Refine material skip exploit if items are swapped
++  When you kill the devil tower boss and get your reward and try to upgrade your weapon or anything, if you press yes and you does not have money less then the cost you will lost the reward. I fixed this 
 ```
 ## - New Questfunctions 
 ```
