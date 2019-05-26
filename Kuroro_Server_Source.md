@@ -141,7 +141,6 @@
 + If two people buy the same item at the same time from a pc's shop, the slower one will receive a wrong return packet (crash client)
 + Ymir are no checks about the zero division exception: e.g. if you set a mob's max hp to 0 in the mob proto, you'll get random crashes.
 + When a player dies, the HP could have a negative value. Now it's 0 like the official.
-+ CShop class destructor wasn't virtual. If a derived class like CShopEx was deleted, a memory leak would have been generated.
 + The belt could be put into the safebox even though the belt inventory isn't empty.
 + The items in the belt inventory could be used even if their slot were not available
 + Sql injection fix about net.SendMessengerRemovePacket
