@@ -112,6 +112,7 @@
 + Guild level control 
 + Adminpage exploit
 + Skill to remain active when skill reset
++ [YMIR] Secondary skill levelup with skill group 0 fixed
 + Quickslot taskbar items
 + Absorption hp/sp of sura magic sword skill
 + Character delete
