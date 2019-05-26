@@ -141,6 +141,7 @@
 + Lovepoints overflow fixed
 + /cube r_info exploit fix
 + Mining hack fix
++ Moblock/ Bravery cape hack fix
 + If two people buy the same item at the same time from a pc's shop, the slower one will receive a wrong return packet (crash client)
 + Ymir are no checks about the zero division exception: e.g. if you set a mob's max hp to 0 in the mob proto, you'll get random crashes.
 + When a player dies, the HP could have a negative value. Now it's 0 like the official.
