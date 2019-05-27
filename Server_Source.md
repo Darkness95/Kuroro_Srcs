@@ -15,6 +15,7 @@
 #define ENABLE_CHAT_SPAMLIMIT					     
 #define ENABLE_WHISPER_CHAT_SPAMLIMIT		
 #define ENABLE_SKILL_NEED_EXP_DISABLE		
+#define ENABLE_BUFF_TO_ALL_PARTY_MEMBER		
 #define ENABLE_IGNORE_LOWER_BUFFS
 #define ENABLE_BLOCK_SKILL_OXEVENT
 #define ENABLE_PRIVATE_SHOP_AUTO_CLOSE
@@ -79,6 +80,7 @@
 + Spam chat limit disconnected
 + Spam chat whisper limit disconnected
 + The required experience is no longer required to read a manual
++ Buff for all member of the party.
 + When you receive a lower buff than the one you currently own, it does not work.
 + Skills are blocked during an OX event ( command enable_block_skill_oxevent 1 for enable 0 for disable )
 + Close the private shop after it's sold out
@@ -107,7 +109,9 @@
 ```
 + Dungeon (core downer)
 + P2P fix
-+ Admin tool exploit fix 
++ Admin tool exploit fix
++ Sequence mismatch header 254 fix.
++ When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
 + Enable stackable books instead of remove all the pile
 + Guild exploit fix
 + Guild comment flood mysql ( delay 10 min )
