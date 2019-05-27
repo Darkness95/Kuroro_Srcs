@@ -34,6 +34,9 @@
 + Hide kingdom flag in npc.
 + Enable instant quest speed.
 + Disable italic on whisper 	
++ Disable collisions for pets.
++ Disable collisions for shops.
++ Disable collisions for mounts.	
 + Read atlasinfo.txt from root instead of locale.
 + Load a default item icon if the one inside the item_list.txt is missing.
 + Enable level for monster.
@@ -41,9 +44,6 @@
 + If enabled, the boss can't fall when you attack.
 + Enable attack and skill from all horses/mounts.
 + Extended source/targetskin[2-9] inside .msm
-+ Disable collisions for pets.
-+ Disable collisions for shops.
-+ Disable collisions for mounts.	
 + Enable stone on minimap.
 ```
 ## - New Fixes
