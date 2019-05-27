@@ -42,7 +42,6 @@
 #define ENABLE_STACK_DROP_ITEM_PARTY
 
 ```
-```
 ## - Modification / Additions
 ```
 + Player conversation stored in the chatlog table
