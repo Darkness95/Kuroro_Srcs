@@ -1,4 +1,4 @@
-# Kurorowork Configs
+# Kuroro Configs
 ## MAX_LEVEL: {<0-1>}  
 ``Set the level max  ``
   
