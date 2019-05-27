@@ -53,6 +53,7 @@
 + "SEQUENCE mismatch 0xaf != 0x64 header 254" fix
 + If the client can not connect to the server, the client will wait one second to connect the server again.
 + When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
++ When you move camera and minimize client in the same time mouse remains blocked and you need to maximize client , stop move camera and minimize again. I fixed this.
 + For do_view_equip (WEAR_MAX_NUM: server 32, client 11) now equal (32 both sides)		
 + Ymir forgot .m_dwVID in the format argument (c_rkCreateData -> c_rkCreateData.m_dwVID)
 + Player.IsValuableItem was selecting a wrong item.cell
