@@ -39,6 +39,7 @@
 #define ENABLE_QUEST_REVIVE_EVENT		
 #define ENABLE_QUEST_UPGRADE_EVENT	
 #define ENABLE_QUEST_FISHING_EVENT	
+#define ENABLE_STACK_POT_BELT_BEFORE_INVENTORY
 
 ```
 ## - List of new game/ CONFIG options
@@ -104,6 +105,7 @@
 + Revive quest event.
 + Upgrade event quest.
 + Fishing complet event quest.
++ Stack potts directly in belt inventory, before putting them to inventory.
 ```
 ## - New Fixes
 ```
