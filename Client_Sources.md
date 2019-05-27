@@ -47,21 +47,20 @@
 + Extended source/targetskin[2-9] inside .msm
 + Enable stone on minimap.
 + Update level text in real time.
++ Checking if the target is on horse or not for position of the range attack.
 ```
 ## - New Fixes
 ```
 + "SEQUENCE mismatch 0xaf != 0x64 header 254" fix
++ Sell item to npc.
++ Ctrl+V crash when pasting images&co.
++ For do_view_equip
 + If the client can not connect to the server, the client will wait one second to connect the server again.
 + When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
 + When you move camera and minimize client in the same time mouse remains blocked and you need to maximize client , stop move camera and minimize again. I fixed this.
-+ For do_view_equip (WEAR_MAX_NUM: server 32, client 11) now equal (32 both sides)		
-+ Ymir forgot .m_dwVID in the format argument (c_rkCreateData -> c_rkCreateData.m_dwVID)
-+ Sell item to npc.
-+ Checking if the target is on horse or not for position of the range attack.
 + If you click a monster without having arrows, the automatic attack will go in loop. I fixed this.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
 + Show the name of the failed mapped .dds load.
-+ Ctrl+V crash when pasting images&co. I fixed this
 + Non-printing/control characters were printed in the (chat) input (the ones you get when you press Ctrl+<key> in game)
 + On arabic locales, the [HyperText code] (alias Prism code) could be edited pressing <Backspace>
 + A new textureset index was -1 instead of 0
