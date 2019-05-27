@@ -57,6 +57,7 @@
 + For do_view_equip (WEAR_MAX_NUM: server 32, client 11) now equal (32 both sides)		
 + Ymir forgot .m_dwVID in the format argument (c_rkCreateData -> c_rkCreateData.m_dwVID)
 + Sell item to npc.
++ Checking if the target is on horse or not for position of the range attack.
 + If you click a monster without having arrows, the automatic attack will go in loop. I fixed this.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
 + Show the name of the failed mapped .dds load.
