@@ -27,6 +27,7 @@
 #define ENABLE_STONE_ON_MINIMAP		
 #define ENABLE_UPDATE_LEVEL_TEXT
 #define ENABLE_FAST_PICK_UP_ITEM_GROUND	
+#define ENABLE_DROP_COLOR_OWNER_ITEM_GROUND
 ```
 ## - Modification / Additions
 ```
@@ -50,6 +51,7 @@
 + Update level text in real time.
 + Checking if the target is on horse or not for position of the range attack.
 + Delay for pick up item in the ground reduce.
++ Color the name of the owner of the drop in red if it is not yours.
 ```
 ## - New Fixes
 ```
