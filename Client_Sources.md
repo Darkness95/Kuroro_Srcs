@@ -24,7 +24,8 @@
 #define ENABLE_PETS_WITHOUT_COLLISIONS		
 #define ENABLE_SHOPS_WITHOUT_COLLISIONS	
 #define ENABLE_MOUNTS_WITHOUT_COLLISIONS		
-#define ENABLE_STONE_ON_MINIMAP				
+#define ENABLE_STONE_ON_MINIMAP		
+#define ENABLE_UPDATE_LEVEL_TEXT
 ```
 ## - Modification / Additions
 ```
@@ -45,6 +46,7 @@
 + Enable attack and skill from all horses/mounts.
 + Extended source/targetskin[2-9] inside .msm
 + Enable stone on minimap.
++ Update level text in real time.
 ```
 ## - New Fixes
 ```
