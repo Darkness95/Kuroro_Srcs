@@ -115,6 +115,7 @@
 + P2P fix
 + Admin tool exploit fix
 + Sequence mismatch header 254 fix.
++ Fix equip item with full inventory.
 + When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
 + Enable stackable books instead of remove all the pile
 + Guild exploit fix
