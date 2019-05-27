@@ -1,90 +1,85 @@
-# KoriDev Configs
-## add_bonus_chance: {unsigned int}  
-``Wahrscheinlichkeit 1-4 Bonus hinzuzufügen.  ``
+# Kurorowork Configs
+## MAX_LEVEL: {<0-1>}  
+``Set the level max  ``
   
-## add_bonus_chance5: {unsigned int}  
-``Wahrscheinlichkeit 5 Bonus hinzuzufügen.  ``
+## TRADE_EFFECT {<0-1>}  
+``Enable the effect when an exchange is made  ``
   
-## set_taxes: {1/0}  
-``Gibt die Steuer die beim Shoppen fällig wird. 1= 3% 0= 0%  ``
+## GLOBAL_SHOUT {<0-1>} 
+``Enable shout as global (not enabled by default)  ``
   
-## add_stone_chance: {unsigned int}  
-``Wahrscheinlichkeit Steine hinzuzufügen.  ``
+## STONE_CHANCE {<int>}  
+``Set the % of succes of liking stone (default 30)  ``
   
-## ENABLE_PENETRATE: {1/0}  
-``Aktiviert/Deaktiviert den neuen Kritteffect  ``
+## REMOVE_STONE: {<0-1>}  
+``Remove the piece of broken stone when extracting stone from an item (not enabled bu default)  ``
   
-## BLOCK_GM_EXCHANGE: {1/0}  
-``Blockt das handeln zwichen GM und spieler.  ``
+## BOOTARY_CHECK: {<0-1>}  
+``Enable opening a shop only in village maps (not enabled by default)  ``
   
-## BLOCK_GM_DROPP: {1/0}  
-``Blockt das droppen von Items für GM´s.  ``
+## GM_HOST_CHECK: {<0-1>}  
+``Enable the gm host check based on ip (unchecked by default)  ``
   
-## BLOCK_GM_SAVEBOX: {1/0}  
-``Blockt das lagern von Items für GM´s  ``
+## UNLIMITED_CAPE: {<0-1>}  
+``Enable the capes of bravery unlimited  (not enabled by default)  ``
   
-## add_rare_on_costume: {1/0}  
-``1= Aktiviert 0= Deaktiviert ( Standart Deaktiviert )  ``
+## UNLIMITED_POTION: {<0-1>}  
+``Enable the potion red & blue unlimited  (not enabled by default)  ``
   
-## max_level_status: {unsigned int}  
-``Gibt das Level an bis wann man Statuspunkte bekommt.  ``
+## ITEM_COUNT_LIMIT: {<1-250>}  
+``You can set the maximum item count (e.g.) to 250 (200 by default)  ``
   
-## dropptime_mob: {int}  
-``Legt die zeit fest bis das Item verschwindet in Sek. ( Standart = 300 Sek (3 Min ))  ``
+## ACCESSORY_CHANCE: {<int>}  
+``Set the % of succes of liking accessory  (default 50)  ``
   
-## dropptime_player: {int}  
-``Legt die zeit fest bis das Item verschwindet in Sek. ( Standart = 5 Sek)  ``
+## ADD_BONUS_CHANCE: {<int>}  
+``Set the % of succes of add a bonus (default 50)  ``
   
-## enable_full_hp: {1/0}  
-``Aktiviert/Deaktiviert das man volle HP nach dem Tod hatt.  ``
+## ADD_BONUS_CHANCE5: {<int>}  
+``Set the % of succes of add the 5th bonus (default 30)  ``
   
-## ATTR_RARE_ENABLE: {1/0}  
-``Aktiviert/Deaktiviert das Hinzufügen von 6/7-Bonis.  ``
+## SHOP_PRICE_3X_TAX: {<0-1>}  
+``Disable the price increase on foreign empires (not disabled by default)  ``
   
-## enable_unlimited_potion: {1/0}  
-``Aktiviert/Deaktiviert das unentliche potts haben kann.  ``
+## SHOUT_LIMIT_LEVEL: {<int>}  
+``Set the requirement level to use the shout (default 15)  ``
   
-## enable_unlimited_cape: {1/0}  
-``Aktiviert/Deaktiviert unentliche Umhänge.  ``
+## PRISM_ITEM_REQUIRE: {<0-1>}  
+``Disable prism requirement (not disabled by default)  ``
   
-## max_gold: {LONGLONG}  
-``Gibt die maximale Anzahl an Yang an. Maximum: 999.999.999.999.999  ``
+## BLOCK_CHAR_CREATION: {<0-1>}  
+``If enabled, character creation will be disabled  ``
   
-## block_char_creation: {0/1}  
-``Aktiviert/Deaktiviert die erstellung von Charakteren  ``
+## EMOTION_MASK_REQUIRE: {<0-1>}  
+``Disable emotion mask requirement (not disabled by default)  ``
   
-## global_chat: {0/1}  
-``Schaltet den Global Chat an oder aus  ``
+## EMPIRE_LANGUAGE_CHECK: {<0-1>}  
+``If enabled, you won’t need to read language books or have the relative ring to understand other empires  ``
   
-## max_level: {int}  
-``Sezt das Maximale Level. Maximal: 120.  ``
+## CHANGE_ATTR_TIME_LIMIT: {<seconds>}  
+``Alternative (60 secs as default, 0=disable)  ``
   
-## pk_protect_level: {int}  
-``Damit kann man einstellen ab welchen Level keinen Schutz mehr hatt. `` 
+## GUILD_INFINITE_MEMBERS: {<0-1>}  
+``If enabled, every guild can have infinite members (not enabled by default) `` 
   
-## EMOTION_WITHOUT_MASK: {1/0}  
-``Beim Aktivieren werden keine Emotionsmasken mehr benötigt.  ``
+## SKILLBOOK_NEXTREAD_MIN: {<int>}  
+``Set the min value of the next read skill book time (default 28800)  ``
   
-## EMOTION_SAME_GENDER: {1/0}  
-``Beim Aktivieren können gleichgeschlechtliche Charaktere Emotionen benutzen.  ``
+## SKILLBOOK_NEXTREAD_MAX: {<int>}  
+``Set the max value of the next read skill book time (default 43200)  ``
   
-## TRADE_EFFECT: {1/0}  
-``Aktiviert einen Effekt, der beim Handeln von Gegenständen oder Yang erzeugt wird.  ``
+## ITEM_DESTROY_TIME_AUTOGIVE: {<seconds>}  
+``Set the destroy time for the autogive items (from boxes if inventory is full and so on) spawned (on the ground) (300 as default)  ``
   
-## REMOVE_STONE: {1/0}  
-``Aktiviert oder Deaktiviert steinsplitter nach dem entfernen von Steinen.  ``
+## ITEM_DESTROY_TIME_DROPGOLD: {<seconds>}  
+``Set the destroy time for the gold (yang) dropped by the players (150 as default)  ``
   
-## add_accessory_chance: {int}  
-``Wahrscheinlichkeit slots und Veredelungen in Schmuck``  
+## ITEM_DESTROY_TIME_DROPITEM: {<seconds>} 
+``Set the destroy time for the items dropped by the players (300 as default) ``  
   
-## block_player_yangdropp: {1/0}  
-``Aktiviert/Deaktiviert, den dropp von Yang für spieler.  ``
+## STATUS_POINT_SET_MAX_VALUE: {<int>}  
+``Set the maximum settable points for status (default 90)  ``
   
-## EMOTION_SAME_GENDER: {1/0}  
-``Beim Aktivieren können gleichgeschlechtliche Charaktere Emotionen benutzen. ( 0 ist an und 1 ist aus)  ``
+## STATUS_POINT_GET_LEVEL_LIMIT: {<int>}   
+``Set the maximum level to get status point (default lvl 90)  ``
   
-## GLASS_NEEDED: {1/0}  
-``Aktiviert/Deaktiviert, dass man beim Benutzen der "Glas der Einsicht"-Funktion auch tatsächlich ein Glas der Einsicht benötigt und dieses auch beim Verwenden verschwindet. `` 
-  
-## SKILL_MASTER_UPGRADE: {1 - 20}  
-``Gibt an, ab welchem Skill-Level Fertigkeiten auf Meister umspringen können.``
