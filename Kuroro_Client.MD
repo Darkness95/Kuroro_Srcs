@@ -20,6 +20,7 @@
 + Animation fishing with warrior female fixed.
 + Time visualization of items in the shop is now fixed.
 + Time visualization of items in the mall is now fixed
++ Syserr error unsupported format character ','
 
 
 ```
