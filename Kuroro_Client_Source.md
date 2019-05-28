@@ -28,6 +28,7 @@
 #define ENABLE_UPDATE_LEVEL_TEXT
 #define ENABLE_FAST_PICK_UP_ITEM_GROUND	
 #define ENABLE_DROP_COLOR_OWNER_ITEM_GROUND
+#define ENABLE_FLASH_APPLICATION_TASKBAR
 ```
 ## - Modification / Additions
 ```
@@ -52,6 +53,7 @@
 + Checking if the target is on horse or not for position of the range attack.
 + Delay for pick up item in the ground reduce.
 + Color the name of the owner of the drop in red if it is not yours.
++ When a private message is received, the icon of the taskbar will flash.
 ```
 ## - New Fixes
 ```
