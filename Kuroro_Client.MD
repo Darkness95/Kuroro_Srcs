@@ -27,6 +27,7 @@
 + Bonus additions, switches and refine items are now stackable
 + Adding coordinates under the minimap
 + Adding time under the minimap
++ Gloss Correction for all armor / weapon. 
 
 
 ```
