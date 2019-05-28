@@ -63,6 +63,7 @@
 + When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
 + When you move camera and minimize client in the same time mouse remains blocked and you need to maximize client , stop move camera and minimize again. I fixed this.
 + If you click a monster without having arrows, the automatic attack will go in loop. I fixed this.
++ When Assignment of skill points when a skill is active fixed.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
 + Show the name of the failed mapped .dds load.
 + Non-printing/control characters were printed in the (chat) input (the ones you get when you press Ctrl+<key> in game)
