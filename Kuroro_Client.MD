@@ -16,6 +16,8 @@
 ## - Kuroro Client fix
 ```
 + Ghost gui fixed.
++ OverInItem visual bug that sometimes remains outside the inventory is fixed.
+
 ```
 
 ## - Kuroro Client general changes
