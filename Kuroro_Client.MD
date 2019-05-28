@@ -23,6 +23,8 @@
 ## - Kuroro Client general changes
 ```
 + Charging time for character selection decreased to 1 second (default 3 sec).
++ Showing the vnum of items in the tooltip for GM.
+
 
 ```
 
