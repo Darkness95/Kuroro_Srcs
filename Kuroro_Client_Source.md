@@ -29,6 +29,7 @@
 #define ENABLE_FAST_PICK_UP_ITEM_GROUND	
 #define ENABLE_DROP_COLOR_OWNER_ITEM_GROUND
 #define ENABLE_FLASH_APPLICATION_TASKBAR
+#define ENABLE_GF_HEIGHT_OF_ACTORS
 ```
 ## - Modification / Additions
 ```
@@ -64,6 +65,7 @@
 + If the client can not connect to the server, the client will wait one second to connect the server again.
 + When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
 + When you move camera and minimize client in the same time mouse remains blocked and you need to maximize client , stop move camera and minimize again. I fixed this.
++ Fix the positions of textails (name position changes by every update packet on the main character), and also the position of the emotions when you are on a mount. 
 + If you click a monster without having arrows, the automatic attack will go in loop. I fixed this.
 + When Assignment of skill points when a skill is active fixed.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
