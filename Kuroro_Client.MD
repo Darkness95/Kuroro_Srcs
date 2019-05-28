@@ -17,6 +17,8 @@
 ```
 + Ghost gui fixed.
 + OverInItem visual bug that sometimes remains outside the inventory is fixed.
++ Animation fishing with warrior female fixed.
+
 
 ```
 
