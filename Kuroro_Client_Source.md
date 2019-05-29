@@ -30,6 +30,7 @@
 #define ENABLE_DROP_COLOR_OWNER_ITEM_GROUND
 #define ENABLE_FLASH_APPLICATION_TASKBAR
 #define ENABLE_GF_HEIGHT_OF_ACTORS
+#define WJ_ENABLE_BOSS_EFFECT
 ```
 ## - Modification / Additions
 ```
@@ -55,6 +56,7 @@
 + Delay for pick up item in the ground reduce.
 + Color the name of the owner of the drop in red if it is not yours.
 + When a private message is received, the icon of the taskbar will flash.
++ Enable boss effect over head.
 ```
 ## - New Fixes
 ```
