@@ -31,6 +31,7 @@
 #define ENABLE_FLASH_APPLICATION_TASKBAR
 #define ENABLE_GF_HEIGHT_OF_ACTORS
 #define WJ_ENABLE_BOSS_EFFECT
+#define WJ_ENABLE_TRADABLE_ICON
 ```
 ## - Modification / Additions
 ```
@@ -57,6 +58,7 @@
 + Color the name of the owner of the drop in red if it is not yours.
 + When a private message is received, the icon of the taskbar will flash.
 + Enable boss effect over head.
++ Enable tradable icon like official.
 ```
 ## - New Fixes
 ```
