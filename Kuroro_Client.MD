@@ -32,6 +32,7 @@
 + Bonus additions, switches and refine items are now stackable
 + Gloss Correction for all armor / weapon. 
 + Shadow is now HD by default.
++ New question dialog design for drop item. 
 
 ```
 
