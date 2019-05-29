@@ -29,17 +29,18 @@
 ```
 + Adding 5th skill for assassin & warrior
 + Charging time for character selection decreased to 1 second (default 3 sec).
-+ Showing the vnum of items in the tooltip for GM.
 + Bonus additions, switches and refine items are now stackable
-+ Adding coordinates under the minimap
-+ Adding time under the minimap
 + Gloss Correction for all armor / weapon. 
++ Shadow is now HD by default.
 
 ```
 
 ## - New Systems Client Python
 ```
-
++ Adding the vnum of items in the tooltip for GM.
++ Adding coordinates under the minimap
++ Adding time under the minimap
++ Adding a sliderbar for edit shadow level in system option.
 ```
 
 
