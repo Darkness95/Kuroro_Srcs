@@ -33,6 +33,8 @@
 + Gloss Correction for all armor / weapon. 
 + Shadow is now HD by default.
 + New question dialog design for drop item. 
++ All python files from the locale have been moved to uiscript.
++ The local folders have been moved, only the root files are left.
 
 ```
 
