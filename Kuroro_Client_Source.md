@@ -55,7 +55,6 @@
 + Update level text in real time.
 + Checking if the target is on horse or not for position of the range attack.
 + Delay for pick up item in the ground reduce.
-+ Color the name of the owner of the drop in red if it is not yours.
 + When a private message is received, the icon of the taskbar will flash.
 + Enable boss effect over head.
 + Enable tradable icon like official.
