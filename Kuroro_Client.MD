@@ -44,6 +44,7 @@
 + Adding coordinates under the minimap
 + Adding time under the minimap
 + Adding a sliderbar for edit shadow level in system option.
++ When the store has been consulted, the name will be colored.
 ```
 
 
