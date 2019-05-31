@@ -27,7 +27,7 @@
 
 ## - Kuroro Client general changes
 ```
-+ Adding 5th skill for assassin & warrior
++ Adding 6th skill for assassin & warrior
 + Charging time for character selection decreased to 1 second (default 3 sec).
 + Bonus additions, switches and refine items are now stackable
 + Gloss Correction for all armor / weapon. 
@@ -35,6 +35,9 @@
 + New question dialog design for drop item. 
 + All python files from the locale have been moved to uiscript.
 + The local folders have been moved, only the root files are left.
++ The useless and korean functions have been removed from the localInfo.
++ Country conditions have been removed
+
 
 ```
 
