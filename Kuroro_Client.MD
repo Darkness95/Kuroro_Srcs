@@ -50,6 +50,7 @@
 + Adding a sliderbar for edit shadow level in system option.
 + Adding hightlight effect when the dragon soul is enabled.
 + When the store has been consulted, the name will be colored.
++ Adding Expanded Money Taskbar System.
 ```
 
 
