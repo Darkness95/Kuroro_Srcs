@@ -1,4 +1,8 @@
 # Kuroro Configs
+
+## NO_TXT: {<0-1>}  
+``If enabled, the item_proto and mob_proto are loaded from the SQL.   ``
+
 ## MAX_LEVEL: {<0-1>}  
 ``Set the level max  ``
   
