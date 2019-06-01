@@ -8,5 +8,6 @@
 ```
 + Removed all __AUCTION__ defines and functions
 + Fixed mysql or txt startup 
++ Dragon soul system is fully functional.
 ```
 
