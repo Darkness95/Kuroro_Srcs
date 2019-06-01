@@ -36,6 +36,7 @@
 #define ENABLE_NEWSTUFF
 #define ENABLE_STACK_POT_BELT_BEFORE_INVENTORY
 #define ENABLE_STACK_DROP_ITEM_PARTY
+#define ENABLE_BIOLOG_SYSTEM
 
 ```
 ## - Modification / Additions
@@ -70,6 +71,7 @@
 + Fishing complet event quest.
 + Stack potts directly in belt inventory, before putting them to inventory.
 + Stack items you drop for Other guys in your party.
++ Biolog system.
 ```
 ## - New Fixes
 ```
