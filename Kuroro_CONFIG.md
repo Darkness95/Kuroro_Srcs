@@ -82,4 +82,7 @@
   
 ## STATUS_POINT_GET_LEVEL_LIMIT: {int}    
 ``Set the maximum level to get status point (default lvl 90)  ``
+
+``
+## DB CONFIG: ##    
   
