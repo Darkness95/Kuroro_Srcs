@@ -3,6 +3,7 @@
 
 - [Changelog Kuroro Client Source](#changelog-kurorowork-client-source)
   * [- New Defines / Systems](#--new-defines---systems)
+  * [- New Systems](#--new-systems)
   * [- Modification / Additions](#--modification---additions)
   * [- New Fixes](#--new-fixes)
 
@@ -33,6 +34,13 @@
 #define WJ_ENABLE_BOSS_EFFECT
 #define WJ_ENABLE_TRADABLE_ICON
 ```
+
+## - New Systems
+```	
+#define ENABLE_BIOLOG_SYSTEM
+#define WJ_ENABLE_TRADABLE_ICON
+```
+
 ## - Modification / Additions
 ```
 + Python 2.7 updated.
