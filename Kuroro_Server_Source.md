@@ -3,6 +3,7 @@
 
 - [Changelog Kuroro Server Source](#changelog-kurorowork-server-source)
   * [- New Defines / Systems](#--new-defines---systems)
+  * [- New Systems](#--new-systems)
   * [- Modification / Additions](#--modification---additions)
   * [- New Fixes](#--new-fixes)
   * [- New Questfunctions](#--new-questfunctions)
@@ -36,9 +37,14 @@
 #define ENABLE_NEWSTUFF
 #define ENABLE_STACK_POT_BELT_BEFORE_INVENTORY
 #define ENABLE_STACK_DROP_ITEM_PARTY
-#define ENABLE_BIOLOG_SYSTEM
 
 ```
+
+## - New Defines / Systems
+```
+#define ENABLE_BIOLOG_SYSTEM
+```
+
 ## - Modification / Additions
 ```
 + Player conversation stored in the chatlog table
