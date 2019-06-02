@@ -43,6 +43,7 @@
 ## - New Defines / Systems
 ```
 #define ENABLE_BIOLOG_SYSTEM
+#define ENABLE_HIGHLIGHT_SYSTEM
 ```
 
 ## - Modification / Additions
