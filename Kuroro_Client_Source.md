@@ -36,6 +36,7 @@
 
 ## - New Systems
 ```	
+#define ENABLE_HIGHLIGHT_SYSTEM
 #define ENABLE_BIOLOG_SYSTEM
 #define WJ_ENABLE_TRADABLE_ICON
 ```
