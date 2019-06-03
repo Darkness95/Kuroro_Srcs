@@ -42,6 +42,7 @@
 
 ## - New Defines / Systems
 ```
+#define ENABLE_COSTUME_WEAPON_SYSTEM
 #define ENABLE_HIGHLIGHT_SYSTEM
 #define ENABLE_SORT_INVENTORY
 #define ENABLE_BIOLOG_SYSTEM
@@ -81,6 +82,7 @@
 + Stack items you drop for Other guys in your party.
 + Biolog system.
 + Inventory sort system.
++ Costume weapon system.
 ```
 ## - New Fixes
 ```
