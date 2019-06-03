@@ -43,6 +43,7 @@
 ## - New Defines / Systems
 ```
 #define ENABLE_COSTUME_WEAPON_SYSTEM
+#define ENABLE_MOUNT_COSTUME_SYSTEM
 #define ENABLE_HIGHLIGHT_SYSTEM
 #define ENABLE_SORT_INVENTORY
 #define ENABLE_BIOLOG_SYSTEM
@@ -83,6 +84,7 @@
 + Biolog system.
 + Inventory sort system.
 + Costume weapon system.
++ Costume mount system.
 ```
 ## - New Fixes
 ```
