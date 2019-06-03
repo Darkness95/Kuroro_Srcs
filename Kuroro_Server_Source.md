@@ -42,8 +42,9 @@
 
 ## - New Defines / Systems
 ```
-#define ENABLE_BIOLOG_SYSTEM
 #define ENABLE_HIGHLIGHT_SYSTEM
+#define ENABLE_SORT_INVENTORY
+#define ENABLE_BIOLOG_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -79,6 +80,7 @@
 + Stack potts directly in belt inventory, before putting them to inventory.
 + Stack items you drop for Other guys in your party.
 + Biolog system.
++ Inventory sort system.
 ```
 ## - New Fixes
 ```
