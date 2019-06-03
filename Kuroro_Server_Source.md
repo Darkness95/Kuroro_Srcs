@@ -84,7 +84,7 @@
 + Biolog system.
 + Inventory sort system.
 + Costume weapon system.
-+ Costume mount system.
++ Enable costume follow mount system.
 ```
 ## - New Fixes
 ```
