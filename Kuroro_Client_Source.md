@@ -36,6 +36,7 @@
 
 ## - New Systems
 ```	
+#define ENABLE_TARGET_SELECT_COLOR
 #define ENABLE_HIGHLIGHT_SYSTEM
 #define ENABLE_BIOLOG_SYSTEM
 #define WJ_ENABLE_TRADABLE_ICON
@@ -66,6 +67,9 @@
 + When a private message is received, the icon of the taskbar will flash.
 + Enable boss effect over head.
 + Enable tradable icon like official.
++ Enable hightlight item effect like GF.
++ Enable new biolog system. 
++ Enable target color system.
 ```
 ## - New Fixes
 ```
