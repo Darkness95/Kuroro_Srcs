@@ -41,6 +41,7 @@
 #define WJ_ENABLE_TRADABLE_ICON
 #define WJ_ENABLE_BOSS_EFFECT
 #define ENABLE_COSTUME_WEAPON_SYSTEM
+#define ENABLE_MOUNT_COSTUME_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -72,6 +73,7 @@
 + Enable new biolog system. 
 + Enable target color system.
 + Enable costume weapon system.
++ Enable costume follow mount system.
 ```
 ## - New Fixes
 ```
