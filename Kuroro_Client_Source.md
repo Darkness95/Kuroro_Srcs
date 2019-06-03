@@ -40,6 +40,7 @@
 #define ENABLE_BIOLOG_SYSTEM
 #define WJ_ENABLE_TRADABLE_ICON
 #define WJ_ENABLE_BOSS_EFFECT
+#define ENABLE_COSTUME_WEAPON_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -70,6 +71,7 @@
 + Enable hightlight item effect like GF.
 + Enable new biolog system. 
 + Enable target color system.
++ Enable costume weapon system.
 ```
 ## - New Fixes
 ```
