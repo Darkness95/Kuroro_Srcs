@@ -42,11 +42,12 @@
 
 ## - New Defines / Systems
 ```
-#define ENABLE_COSTUME_WEAPON_SYSTEM
-#define ENABLE_MOUNT_COSTUME_SYSTEM
 #define ENABLE_HIGHLIGHT_SYSTEM
 #define ENABLE_SORT_INVENTORY
 #define ENABLE_BIOLOG_SYSTEM
+#define ENABLE_COSTUME_WEAPON_SYSTEM
+#define ENABLE_MOUNT_COSTUME_SYSTEM
+#define ENABLE_ACCE_COSTUME_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -85,6 +86,7 @@
 + Inventory sort system.
 + Costume weapon system.
 + Enable costume follow mount system.
++ Enable acce costume system.
 ```
 ## - New Fixes
 ```
