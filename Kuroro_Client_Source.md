@@ -42,6 +42,7 @@
 #define WJ_ENABLE_BOSS_EFFECT
 #define ENABLE_COSTUME_WEAPON_SYSTEM
 #define ENABLE_MOUNT_COSTUME_SYSTEM
+#define ENABLE_ACCE_COSTUME_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -74,6 +75,7 @@
 + Enable target color system.
 + Enable costume weapon system.
 + Enable costume follow mount system.
++ Enable costume acce system.
 ```
 ## - New Fixes
 ```
