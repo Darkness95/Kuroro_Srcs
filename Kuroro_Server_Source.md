@@ -47,7 +47,8 @@
 #define ENABLE_BIOLOG_SYSTEM
 #define ENABLE_COSTUME_WEAPON_SYSTEM
 #define ENABLE_MOUNT_COSTUME_SYSTEM
-#define ENABLE_ACCE_COSTUME_SYSTEM
+#define ENABLE_ACCE_COSTUME_SYSTEM	
+#define ENABLE_QUIVER_SYSTEM		
 ```
 
 ## - Modification / Additions
@@ -86,7 +87,8 @@
 + Inventory sort system.
 + Costume weapon system.
 + Enable costume follow mount system.
-+ Enable acce costume system.
++ Enable shoulder sash costume system.
++ Enable quiver system.
 ```
 ## - New Fixes
 ```
