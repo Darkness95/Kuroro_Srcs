@@ -51,6 +51,7 @@
 #define ENABLE_QUIVER_SYSTEM		
 #define ENABLE_VIEW_TARGET_PLAYER_HP
 #define ENABLE_VIEW_TARGET_DECIMAL_HP
+#define ENABLE_COSTUME_ATTR_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -93,6 +94,7 @@
 + Enable quiver system.
 + Enable view target player hp.
 + Enable view target decimal hp.
++ Enable costume attr system.
 ```
 ## - New Fixes
 ```
