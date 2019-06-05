@@ -42,7 +42,8 @@
 #define WJ_ENABLE_BOSS_EFFECT
 #define ENABLE_COSTUME_WEAPON_SYSTEM
 #define ENABLE_MOUNT_COSTUME_SYSTEM
-#define ENABLE_ACCE_COSTUME_SYSTEM
+#define ENABLE_ACCE_COSTUME_SYSTEM	
+#define ENABLE_QUIVER_SYSTEM		
 ```
 
 ## - Modification / Additions
@@ -75,7 +76,8 @@
 + Enable target color system.
 + Enable costume weapon system.
 + Enable costume follow mount system.
-+ Enable costume acce system.
++ Enable shoulder sash costume system.
++ Enable quiver system. 
 ```
 ## - New Fixes
 ```
@@ -84,16 +86,14 @@
 + Ctrl+V crash when pasting images&co.
 + For do_view_equip
 + If the client can not connect to the server, the client will wait one second to connect the server again.
++ Fix crash client when you dont have arrow.
 + When a character is logging out from the game near to your character you can see a fast equipment change (the character is unequipping everything from him/herself)
 + When you move camera and minimize client in the same time mouse remains blocked and you need to maximize client , stop move camera and minimize again. I fixed this.
 + Fix the positions of textails (name position changes by every update packet on the main character), and also the position of the emotions when you are on a mount. 
 + If you click a monster without having arrows, the automatic attack will go in loop. I fixed this.
 + When Assignment of skill points when a skill is active fixed.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
-+ Show the name of the failed mapped .dds load.
 + Non-printing/control characters were printed in the (chat) input (the ones you get when you press Ctrl+<key> in game)
-+ On arabic locales, the [HyperText code] (alias Prism code) could be edited pressing <Backspace>
-+ A new textureset index was -1 instead of 0
 ```
 
 
