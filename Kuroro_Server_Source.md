@@ -49,6 +49,8 @@
 #define ENABLE_MOUNT_COSTUME_SYSTEM
 #define ENABLE_ACCE_COSTUME_SYSTEM	
 #define ENABLE_QUIVER_SYSTEM		
+#define ENABLE_VIEW_TARGET_PLAYER_HP
+#define ENABLE_VIEW_TARGET_DECIMAL_HP
 ```
 
 ## - Modification / Additions
@@ -89,6 +91,8 @@
 + Enable costume follow mount system.
 + Enable shoulder sash costume system.
 + Enable quiver system.
++ Enable view target player hp.
++ Enable view target decimal hp.
 ```
 ## - New Fixes
 ```
