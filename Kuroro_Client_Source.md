@@ -47,6 +47,7 @@
 #define ENABLE_VIEW_TARGET_PLAYER_HP
 #define ENABLE_VIEW_TARGET_DECIMAL_HP
 #define ENABLE_COSTUME_ATTR_SYSTEM
+#define ENABLE_TAB_NEXT_TARGET
 ```
 
 ## - Modification / Additions
@@ -84,6 +85,7 @@
 + Enable view target player hp.
 + Enable view target decimal hp.
 + Enable costume attr system.
++ Enable tab next target.
 ```
 ## - New Fixes
 ```
