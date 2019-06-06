@@ -99,7 +99,7 @@
 + If you click a monster without having arrows, the automatic attack will go in loop. I fixed this.
 + When Assignment of skill points when a skill is active fixed.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
-+ Non-printing/control characters were printed in the (chat) input (the ones you get when you press Ctrl+<key> in game)
++ Quiver system: When you attack a target with space bar and you switch with arrow, client will crash, i fixed this. 
 ```
 
 
