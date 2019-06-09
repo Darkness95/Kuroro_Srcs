@@ -43,12 +43,13 @@
 #define ENABLE_COSTUME_WEAPON_SYSTEM
 #define ENABLE_MOUNT_COSTUME_SYSTEM
 #define ENABLE_ACCE_COSTUME_SYSTEM	
-#define ENABLE_QUIVER_SYSTEM		
+#define ENABLE_QUIVER_SYSTEM		T
 #define ENABLE_VIEW_TARGET_PLAYER_HP
 #define ENABLE_VIEW_TARGET_DECIMAL_HP
 #define ENABLE_COSTUME_ATTR_SYSTEM
 #define ENABLE_TAB_NEXT_TARGET
 #define ENABLE_ATTR_TRANSFER_SYSTEM
+#define ENABLE_CHANGELOOK_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -88,6 +89,7 @@
 + Enable costume attr system.
 + Enable tab next target.
 + Enable attr transfer system.
++ Enable changelook system.
 ```
 ## - New Fixes
 ```
@@ -104,6 +106,7 @@
 + When Assignment of skill points when a skill is active fixed.
 + CMapOutdoor::Load - LoadMonsterAreaInfo fixed.
 + Quiver system: When you attack a target with space bar and you switch with arrow, client will crash, i fixed this. 
++ Quiver system: When you have costume weapon, or transmutated weapon, quiver effect is not working. I fixed this. 
 ```
 
 
