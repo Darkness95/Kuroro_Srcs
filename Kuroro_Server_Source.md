@@ -53,6 +53,7 @@
 #define ENABLE_VIEW_TARGET_DECIMAL_HP
 #define ENABLE_COSTUME_ATTR_SYSTEM
 #define ENABLE_ATTR_TRANSFER_SYSTEM
+#define ENABLE_CHANGELOOK_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -97,6 +98,7 @@
 + Enable view target decimal hp.
 + Enable costume attr system.
 + Enable attr transfer system.
++ Enable changelook system.
 ```
 ## - New Fixes
 ```
