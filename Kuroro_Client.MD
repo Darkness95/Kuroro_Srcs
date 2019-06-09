@@ -45,7 +45,6 @@
 ## - New Systems Client Python
 ```
 + Adding the vnum of items in the tooltip for GM.
-+ Item displayed via hyperlink now are showing icon bellow it's name.
 + Adding coordinates under the minimap
 + Adding time under the minimap
 + Adding a sliderbar for edit shadow level in system option.
