@@ -50,6 +50,8 @@
 #define ENABLE_TAB_NEXT_TARGET
 #define ENABLE_ATTR_TRANSFER_SYSTEM
 #define ENABLE_CHANGELOOK_SYSTEM
+#define ENABLE_DESTROY_DROP_SYSTEM
+#define ENABLE_SPECIAL_STORAGE
 ```
 
 ## - Modification / Additions
@@ -90,6 +92,8 @@
 + Enable tab next target.
 + Enable attr transfer system.
 + Enable changelook system.
++ Enable destroy drop dialog.
++ Enable special storage.
 ```
 ## - New Fixes
 ```
