@@ -54,6 +54,8 @@
 #define ENABLE_COSTUME_ATTR_SYSTEM
 #define ENABLE_ATTR_TRANSFER_SYSTEM
 #define ENABLE_CHANGELOOK_SYSTEM
+#define ENABLE_SPECIAL_STORAGE
+#define ENABLE_SORT_SPECIAL_INVENTORY
 ```
 
 ## - Modification / Additions
@@ -99,6 +101,8 @@
 + Enable costume attr system.
 + Enable attr transfer system.
 + Enable changelook system.
++ Enable special storage.
++ Enable special sort storage.
 ```
 ## - New Fixes
 ```
