@@ -54,6 +54,7 @@
 #define ENABLE_COSTUME_ATTR_SYSTEM
 #define ENABLE_ATTR_TRANSFER_SYSTEM
 #define ENABLE_CHANGELOOK_SYSTEM
+#define ENABLE_DESTROY_DROP_SYSTEM
 #define ENABLE_SPECIAL_STORAGE
 #define ENABLE_SORT_SPECIAL_INVENTORY
 ```
@@ -101,6 +102,7 @@
 + Enable costume attr system.
 + Enable attr transfer system.
 + Enable changelook system.
++ Enable destroy drop dialog.
 + Enable special storage.
 + Enable special sort storage.
 ```
