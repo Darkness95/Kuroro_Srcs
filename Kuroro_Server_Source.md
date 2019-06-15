@@ -61,6 +61,7 @@
 #define ENABLE_HIDE_COSTUME_SYSTEM_ACCE				
 #define ENABLE_HIDE_COSTUME_SYSTEM_WEAPON_COSTUME	
 #define ENABLE_HIDE_COSTUME_SYSTEM_TRANSMUTACION	
+#define ELEMENT_NEW_BONUSES	
 ```
 
 ## - Modification / Additions
@@ -114,6 +115,7 @@
 + Enable hide costume acce system.
 + Enable hide costume weapon system.
 + Enable costyme system transmutation.
++ Enable officiel new elemental bonus.
 ```
 ## - New Fixes
 ```
