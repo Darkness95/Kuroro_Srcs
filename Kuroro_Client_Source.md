@@ -53,6 +53,7 @@
 #define ENABLE_DESTROY_DROP_SYSTEM
 #define ENABLE_SPECIAL_STORAGE
 #define ELEMENT_NEW_BONUSES
+#define ENABLE_REFINE_RENEWAL
 ```
 
 ## - Modification / Additions
