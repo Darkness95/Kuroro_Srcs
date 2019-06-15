@@ -53,6 +53,7 @@
 + Move items from the safebox with right-click in inventory like GF.
 + Adding expanded money taskbar system.
 + Adding auto refine option.
++ Adding materials refine description.
 ```
 
 
