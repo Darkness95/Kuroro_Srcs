@@ -56,6 +56,7 @@
 + Adding auto refine option.
 + Adding materials refine description.
 + Adding poison system.
++ Adding bonus page like GF.
 ```
 
 
