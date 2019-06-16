@@ -38,6 +38,7 @@
 + The useless and korean functions have been removed from the localInfo.
 + Country conditions have been removed
 + Public_effect is now red.
++ Affect shower range 
 
 
 ```
