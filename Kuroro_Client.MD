@@ -54,6 +54,7 @@
 + Adding expanded money taskbar system.
 + Adding auto refine option.
 + Adding materials refine description.
++ Adding poison system.
 ```
 
 
