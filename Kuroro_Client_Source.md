@@ -54,6 +54,7 @@
 #define ENABLE_SPECIAL_STORAGE
 #define ELEMENT_NEW_BONUSES
 #define ENABLE_REFINE_RENEWAL
+#define ENABLE_GAYA_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -97,6 +98,7 @@
 + Enable destroy drop dialog.
 + Enable special storage.
 + Enable officiel new elemental bonus.
++ Enable gaya system.
 ```
 ## - New Fixes
 ```
