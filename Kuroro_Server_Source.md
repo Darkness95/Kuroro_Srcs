@@ -37,7 +37,6 @@
 #define ENABLE_NEWSTUFF
 #define ENABLE_STACK_POT_BELT_BEFORE_INVENTORY
 #define ENABLE_STACK_DROP_ITEM_PARTY
-
 ```
 
 ## - New Defines / Systems
@@ -62,6 +61,7 @@
 #define ENABLE_HIDE_COSTUME_SYSTEM_WEAPON_COSTUME	
 #define ENABLE_HIDE_COSTUME_SYSTEM_TRANSMUTACION	
 #define ELEMENT_NEW_BONUSES	
+#define ENABLE_GAYA_SYSTEM
 ```
 
 ## - Modification / Additions
@@ -116,6 +116,7 @@
 + Enable hide costume weapon system.
 + Enable costyme system transmutation.
 + Enable officiel new elemental bonus.
++ Enable gaya system.
 ```
 ## - New Fixes
 ```
