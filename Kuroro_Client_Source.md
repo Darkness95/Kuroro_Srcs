@@ -53,6 +53,9 @@
 #define ENABLE_DESTROY_DROP_SYSTEM
 #define ENABLE_SPECIAL_STORAGE
 #define ELEMENT_NEW_BONUSES
+#define ENABLE_HIDE_COSTUME_SYSTEM					
+#define ENABLE_HIDE_COSTUME_SYSTEM_ACCE				
+#define ENABLE_HIDE_COSTUME_SYSTEM_WEAPON_COSTUME	
 #define ENABLE_REFINE_RENEWAL
 #define ENABLE_GAYA_SYSTEM
 ```
@@ -99,6 +102,7 @@
 + Enable special storage.
 + Enable officiel new elemental bonus.
 + Enable gaya system.
++ Enable hide costume system.
 ```
 ## - New Fixes
 ```
