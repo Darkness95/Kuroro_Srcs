@@ -57,6 +57,10 @@
 + Adding materials refine description.
 + Adding poison system.
 + Adding bonus page like GF.
++ Adding intrologin with save account.
++ Adding introselect like GF.
++ Adding introcreate like GF.
++ Adding introempire like GF.
 ```
 
 
