@@ -57,6 +57,7 @@
 #define ENABLE_HIDE_COSTUME_SYSTEM_ACCE				
 #define ENABLE_HIDE_COSTUME_SYSTEM_WEAPON_COSTUME	
 #define ENABLE_REFINE_RENEWAL
+#define ENABLE_EXTEND_INVEN_SYSTEM
 #define ENABLE_GAYA_SYSTEM
 ```
 
@@ -101,6 +102,7 @@
 + Enable destroy drop dialog.
 + Enable special storage.
 + Enable officiel new elemental bonus.
++ Enable extend inv system.
 + Enable gaya system.
 + Enable hide costume system.
 ```
