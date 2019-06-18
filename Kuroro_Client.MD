@@ -61,6 +61,7 @@
 + Adding introselect like GF.
 + Adding introcreate like GF.
 + Adding introempire like GF.
++ Adding new menu windows in inventory.
 ```
 
 
