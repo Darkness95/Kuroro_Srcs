@@ -62,6 +62,7 @@
 + Adding introcreate like GF.
 + Adding introempire like GF.
 + Adding new menu windows in inventory.
++ Adding new emotion windows like GF.
 ```
 
 
