@@ -59,6 +59,7 @@
 #define ENABLE_REFINE_RENEWAL
 #define ENABLE_EXTEND_INVEN_SYSTEM
 #define ENABLE_GAYA_SYSTEM
+#define ENABLE_NEW_ACTIONS
 ```
 
 ## - Modification / Additions
@@ -105,6 +106,7 @@
 + Enable extend inv system.
 + Enable gaya system.
 + Enable hide costume system.
++ Enable new emotion windows
 ```
 ## - New Fixes
 ```
