@@ -62,6 +62,7 @@
 #define ENABLE_HIDE_COSTUME_SYSTEM_TRANSMUTACION	
 #define ELEMENT_NEW_BONUSES	
 #define ENABLE_GAYA_SYSTEM
+#define ENABLE_NEW_ACTIONS
 ```
 
 ## - Modification / Additions
@@ -117,6 +118,7 @@
 + Enable costyme system transmutation.
 + Enable officiel new elemental bonus.
 + Enable gaya system.
++ Enable new emotions like GF.
 ```
 ## - New Fixes
 ```
