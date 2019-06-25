@@ -6,9 +6,9 @@
 
 ## - Modification ##
 ``
-item_proto updated to 2018.
-mob_proto updated to 2018.
-all quest translated with translate.lua
++ Item_proto updated to 2018.
++ Mob_proto updated to 2018.
++ All quest translated with translate.lua
 ``
 
 ## - New Fixes
