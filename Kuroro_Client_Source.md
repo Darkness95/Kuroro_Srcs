@@ -31,6 +31,7 @@
 #define ENABLE_DROP_COLOR_OWNER_ITEM_GROUND
 #define ENABLE_FLASH_APPLICATION_TASKBAR
 #define ENABLE_GF_HEIGHT_OF_ACTORS
+#define ENABLE_NEW_KURORO_RACE	
 ```
 
 ## - New Systems
@@ -107,6 +108,7 @@
 + Enable gaya system.
 + Enable hide costume system.
 + Enable new emotion windows
++ Enable npc_mount & npc pet.
 ```
 ## - New Fixes
 ```
